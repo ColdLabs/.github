@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="https://coldlabs.app"><img src="banner.png" alt="Cold Labs: indie game and tools studio. coldlabs.app" width="720"></a>
-</p>
-
 Small games and tools, made with care. Each one does a single thing well and leaves the thinking to you.
 
 ## GridSleuth
